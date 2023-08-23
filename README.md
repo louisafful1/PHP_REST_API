@@ -37,10 +37,10 @@ Retrieve Blog Posts
 
 To retrieve the list of blog posts, make a GET request to the URL: /restapi/REST_API/api/read.php
 
-Response:
+## Response:
 The response will be in JSON format and will contain an array of blog post objects. Each object has attributes such as id, title, body, author, category_id, and category_name.
 
-Contributing
+## Contributing
 Contributions to this project are welcome! If you find bugs or have suggestions, feel free to create issues or pull requests.
 
 
