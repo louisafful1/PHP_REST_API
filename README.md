@@ -1,5 +1,7 @@
 # REST_API
 
+This is a beginner-friendly PHP REST API that demonstrates how to create an API for retrieving and managing blog posts. I used PHP's Object-Oriented Programming (OOP) approach and interacts with a MySQL database. The README will guide you through the setup, usage, and key components of the project.
+
 ## Project Overview
 The rest_api project demonstrates the creation of a basic PHP REST API that interacts with a MySQL database. The key components of the project include:
 
